@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * springboot的第一个案例
+ *王二麻子到此一游
  */
 
 @RestController //实例化
